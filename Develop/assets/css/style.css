@@ -62,11 +62,13 @@ main {
 .float-left {
     float: left;
     margin-right: 25px;
+    height: 200px;
 }
 
 .float-right {
     float: right;
     margin-left: 25px;
+    height: 200px;
 }
 
 body {
@@ -119,18 +121,6 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
 }
 
 .search-engine-optimization h2 {
